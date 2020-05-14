@@ -1,0 +1,22 @@
+.Potato {
+    border: '2px solid #ccc';
+    margin-bottom: '10px';
+    background-color: 'lightblue';
+    padding: '10px';
+    box-shadow: '0 4px 5px 0px rgba(0, 0, 0, .14)';
+    border-radius: '5px';
+}
+
+.input {}
+
+input.green{
+    border: 1px solid green; 
+}
+
+input.red{
+    border: 1px solid red; 
+}
+
+
+
+

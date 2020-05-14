@@ -20,7 +20,7 @@ class App extends Component {
   //   })
 
   // };
-  onChangeName(name, index) {
+  onChangeName(name, index) { 
     const potato = this.state.potatoes[index]
     potato.name = name 
     let potatoes2 = [...this.state.potatoes]
